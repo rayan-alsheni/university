@@ -4,9 +4,9 @@
 ---
 
 ## Contact Information
-- **Email:** [Add your email]
-- **Phone:** [Add your phone]
-- **LinkedIn:** [Add your link]
+- **Email:** r@alsheni.com
+- **Phone:** +966598877212
+- **LinkedIn:** https://www.linkedin.com/in/rayan-al-sheni
 
 ---
 
@@ -35,4 +35,4 @@
 
 ---
 
-*Last Updated: August 30, 2026*
+*Last Updated: August for 31, 2026*
