@@ -1,4 +1,4 @@
-# Curriculum Vitae
+# University Profile
 ## Rayan Bander Al-Shini Al-Jahdali
 
 ---
@@ -19,7 +19,8 @@
 ---
 
 ## Work Experience
-- **Position:** Reception Staff (During Studies)
+- **Position:**
+- **2026/8:** Reception Staff (During Studies)
 
 ---
 
@@ -34,5 +35,9 @@
 ## Skills
 
 ---
+## Courses & Workshops
+2026/8/30: Effective Communication and Handling Differences Skills (2 hours)
+2026/8/31: Introduction to Innovation in Entrepreneurship (2 hours)
 
-*Last Updated: August for 31, 2026*
+---
+*Last Updated: September 1, 2026*
